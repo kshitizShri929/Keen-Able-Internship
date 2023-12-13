@@ -57,10 +57,13 @@
 ## (Linux 40 task) 🐧
 1. File and Folder Create Command (TOUCH, MKDIR, VIM )
 * Touch: used to create, change and modify the timestamps of a file.
+  - Syntax touch file_name
   - **cat command**: It is used to create the file with content.
+  - Sytax: cat file_name
   - **Touch command**: It is used to create a file without any content. The file created using the touch command is empty. This command can be used when the user doesn’t have data to store at the time of file creation.
 * mkdir: used used to make a new directory.
 * vim: Vim is an advanced and highly configurable text editor built to enable efficient text editing. It supports most file types and vim editor is also known as a programmer’s editor. We can use its plugin based on our needs.
+  - Sytax vim file_name
   
 2. File and Folder Permission (CHOWN, CHMOD, CHGRP)
 * **chown**: used to change the file Owner or group. Whenever you want to change ownership, you can use chown command.
