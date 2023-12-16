@@ -76,4 +76,7 @@
   - Syntax: rm [OPTION]... FILE...
   - **CP Command**: cp stands for a copy. This command is used to copy files or groups of files or directories. It creates an exact image of a file on a disk with a different file name.
   - Syntax: cp [Source_file] [Destination_file]
+  - **MV Command**:
+  - **SCP Command**:
+  - **RSYNC Command**:
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
