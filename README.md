@@ -76,7 +76,19 @@
   - Syntax: rm [OPTION]... FILE...
   - **CP Command**: cp stands for a copy. This command is used to copy files or groups of files or directories. It creates an exact image of a file on a disk with a different file name.
   - Syntax: cp [Source_file] [Destination_file]
-  - **MV Command**:
+  - **MV Command**:The mv command in Linux is used to move or rename files and directories. Here are some common use cases:
+  - Sytax:mv source_file destination_directory
+  - Replace source_file with the name of the file you want to move and destination_directory with the path to the directory where you want to move the file.
+  - Renaming a File:
+
+    To rename a file, you can use the mv command as follows:
+  - Syntax:mv old_file_name new_file_name
+  - Replace old_file_name with the current name of the file and new_file_name with the desired new name.
+  - Moving Multiple Files:mv file1.txt file2.txt file3.txt /path/to/destination/
+
+
+
+
   - **SCP Command**:
   - **RSYNC Command**:
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
