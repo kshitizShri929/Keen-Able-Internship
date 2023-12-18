@@ -89,6 +89,24 @@
 
 
 
-  - **SCP Command**:
+  - **SCP Command**:The scp command in Linux is used for securely copying files between hosts on a network. It stands for "secure copy" and uses the SSH (Secure Shell) protocol for data transfer.
+    
+  - Syntax:scp [options] [source] [destination]
+  -     [options]: Optional parameters that modify the behavior of the scp command. Some common options include:
+        -r: Recursively copy entire directories.
+        -p: Preserves modification times, access times, and modes from the original file.
+        -i <identity_file>: Specifies the identity file (private key) for public key authentication.
+
+    [source]: The file or directory you want to copy. This can be a local path or a path on a remote server specified in the format [user@]host:file.
+
+    [destination]: The location where the file or directory will be copied. This can be a local path or a path on a remote server specified in the format [user@]host:file.
+
+    - Examples:
+
+    Copy a file from local to remote:
+
+    Syntax :scp /path/to/local/file.txt username@remote:/path/on/remote/
+
+
   - **RSYNC Command**:
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
