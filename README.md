@@ -110,3 +110,94 @@
 
   - **RSYNC Command**:
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
+
+    File and Directory Commands:
+    
+        ls: List files and directories.
+    
+        cd: Change directory.
+    
+        pwd: Print working directory.
+    
+        cp: Copy files or directories.
+    
+        mv: Move or rename files or directories.
+    
+        rm: Remove files or directories.
+    
+        mkdir: Create a new directory.
+    
+        rmdir: Remove an empty directory.
+
+    Text Processing Commands:
+    
+        cat: Concatenate and display the content of files.
+    
+        grep: Search for patterns in files.
+    
+        sed: Stream editor for filtering and transforming text.
+    
+        awk: Pattern scanning and processing language.
+
+    File Permissions:
+    
+        chmod: Change file mode (permissions).
+    
+        chown: Change file owner and group.
+
+    System Information:
+    
+        uname: Display system information.
+    
+        df: Display disk space usage.
+    
+        free: Display free and used memory.
+
+    User Management:
+    
+        passwd: Change user password.
+    
+        useradd: Add a new user.
+    
+        userdel: Delete a user.
+    
+        usermod: Modify user properties.
+
+    Process Management:
+    
+        ps: Display information about active processes.
+    
+        top: Display and update sorted information about processes.
+    
+        kill: Terminate processes.
+    
+
+    Network Commands:
+    
+        ifconfig or ip: Display and configure network interfaces.
+    
+        ping: Check network connectivity.
+    
+        nslookup or dig: Query DNS information.
+    
+        netstat: Display network connections, routing tables, interface statistics, masquerade connections, etc.
+
+    Package Management:
+    
+        apt (Debian/Ubuntu) or yum (Red Hat/Fedora): Install, update, or remove software packages.
+    
+        dpkg (Debian/Ubuntu) or rpm (Red Hat/Fedora): Package management tools.
+
+    Compression and Archiving:
+    
+        tar: Create or extract compressed archive files.
+    
+        gzip, bzip2, xz: Compress or decompress files.
+
+    File System Navigation:
+    
+        find: Search for files in a directory hierarchy.
+    
+        locate: Find the location of files.
+
+
