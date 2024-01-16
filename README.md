@@ -200,4 +200,7 @@
     
         locate: Find the location of files.
 
+    **Shell Scripting** completed links
+    
+
 
