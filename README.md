@@ -10,10 +10,10 @@
 
 | Skills Measuring                                                         | Task                                                                                 
 | :------------------------------------------------------------------ | :--------------------------------------------------------------------------------------- |
-| 1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork | Diwali Office Decoration
+| 1. Written Communication Skills/ Quality of Work/ Planning & Problem-Solving Skills/ Teamwork | Diwali Office Decoration
 | 2. Ability to Learn | Learn Google Spreadsheets.
 | 3. Research Skills/ Quality of Work | Search Engine Questionnaire
-| 4. Problem Solving Skills | Brainteaser
+| 4. Problem-Solving Skills | Brainteaser
 | 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving | Teach a Topic
 | 6. Research Skills/ Communication Skills/ Quality of Work | Group Discussion
 
@@ -201,6 +201,7 @@
         locate: Find the location of files.
 
     **Shell Scripting** completed links
+    **Linux networking **  contineue.
     
 
 
