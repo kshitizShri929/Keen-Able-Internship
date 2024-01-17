@@ -201,7 +201,7 @@
         locate: Find the location of files.
 
     **Shell Scripting** completed links
-    **Linux networking **  contineue.
+    **Linux networking**  contineue.
     
 
 
