@@ -213,8 +213,8 @@
       **Skill**:
   
     - **Fullstack**-html css js Nodejs express js and mongodb
-    - 
+  
     - **Testing** -cypress
-    - 
+  
     - **Deployment** -apache
-    - 
+      
